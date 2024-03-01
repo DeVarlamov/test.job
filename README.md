@@ -4,7 +4,7 @@
 ## Регистрация пользователя по автотокену
 
 ### эндпойнт - /api/users/ POST
-"""
+```
 {
   "email": "vpupkin@yandex.ru",
   "username": "vasya.pupkin",
@@ -12,7 +12,7 @@
   "last_name": "Пупкин",
   "password": "256554test"
 }
-"""
+```
 ## Получение токена POST
 ### эндпоинт - /api/auth/token/login/
 """
