@@ -15,7 +15,7 @@
 ```
 ## Получение токена POST
 ### эндпоинт - /api/auth/token/login/
-"""
+```
 {
   "email": "vpupkin@yandex.ru",
   "password": "256554test"
